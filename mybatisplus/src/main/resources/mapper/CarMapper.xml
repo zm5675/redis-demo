@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.sa.mapper.CarMapper">
+
+    <resultMap id="BaseResultMap" type="com.sa.mybatisplus.domain.Car">
+            <id property="id" column="id" jdbcType="INTEGER"/>
+            <result property="carNum" column="car_num" jdbcType="VARCHAR"/>
+            <result property="brand" column="brand" jdbcType="VARCHAR"/>
+            <result property="guidePrice" column="guide_price" jdbcType="DECIMAL"/>
+            <result property="produceTime" column="produce_time" jdbcType="CHAR"/>
+            <result property="carType" column="car_type" jdbcType="VARCHAR"/>
+    </resultMap>
+
+    <sql id="Base_Column_List">
+        id,car_num,brand,
+        guide_price,produce_time,car_type
+    </sql>
+    <insert id="insertSelective">
+        insert into t_car
+        <trim prefix="(" suffix=")" suffixOverrides=",">
+            <if test="id != null">id,</if>
+            <if test="carNum != null">car_num,</if>
+            <if test="brand != null">brand,</if>
+            <if test="guidePrice != null">guide_price,</if>
+            <if test="produceTime != null">produce_time,</if>
+            <if test="carType != null">car_type,</if>
+        </trim>
+        values
+        <trim prefix="(" suffix=")" suffixOverrides=",">
+            <if test="id != null">#{id,jdbcType=INTEGER},</if>
+            <if test="carNum != null">#{carNum,jdbcType=VARCHAR},</if>
+            <if test="brand != null">#{brand,jdbcType=VARCHAR},</if>
+            <if test="guidePrice != null">#{guidePrice,jdbcType=DECIMAL},</if>
+            <if test="produceTime != null">#{produceTime,jdbcType=CHAR},</if>
+            <if test="carType != null">#{carType,jdbcType=VARCHAR},</if>
+        </trim>
+    </insert>
+    <insert id="insertAll">
+insert into t_car
+(id,car_num,brand,
+guide_price,produce_time,car_type)
+values
+(
+#{id,jdbcType=NUMERIC},#{carNum,jdbcType=VARCHAR},#{brand,jdbcType=VARCHAR},
+#{guidePrice,jdbcType=DECIMAL},#{produceTime,jdbcType=VARCHAR},#{carType,jdbcType=VARCHAR}
+)
+
+</insert>
+</mapper>

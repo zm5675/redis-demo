@@ -1,0 +1,12 @@
+#配置服务开启端口
+server:
+  port: 8080
+
+
+
+baseDir: c:\windows
+# tmpDir 数据引用了之前定义的baseDir，可以通过${}的形式，可以按照层级书写
+tmpDir: ${baseDir}\tmp
+
+
+

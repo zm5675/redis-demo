@@ -1,0 +1,132 @@
+﻿body {
+    padding: 0px;
+    margin: 0px;
+    background-color: #fefefe;
+    font: 14px/1.231 'Microsoft YaHei', Helvetica, sans-serif;
+    color: #333;
+}
+
+div{
+    padding-bottom:0px;
+    margin:0px;
+    padding-left:0px;
+    padding-right:0px;
+    padding-top:0px;
+}
+* {
+    margin: 0px;
+    padding: 0px;
+}
+video{
+    width:100%;
+    height:100%;
+}
+.wrap{
+    width:1200px;
+    margin:0 auto;
+    position:relative;
+}
+.column2{
+    margin-bottom:22px;
+    margin-top:50px;
+    position:relative;
+}
+.column2 .column2-title{
+    font-size:22px;
+    color:#acabab;
+    vertical-align:middle;
+    margin-right:16px;
+}
+.column2 span{
+    display:inline-block;
+}
+.column2 .column2-subtitle{
+    font-size:18px;
+    color:#333;
+    margin-right:26px;
+}
+.article{
+    height:280px;
+}
+.article .article-1{
+    float:left;
+    width:360px;
+    height:280px;
+}
+
+.article .article-1 img{
+    width:360px;
+    /*height:360px;*/
+}
+.article .article-m{
+    float:left;
+    margin:0 76px;
+    position:relative;
+}
+.article .article-m .slider-wrapper{
+    text-align:left;
+}
+.slider-wrapper{
+    position:relative;
+    clear:both;
+    zoom:1;
+}
+.article .article-r{
+    float:right;
+    width:344px;
+    overflow:hidden;
+}
+.article .article-r .article-r-title{
+    font-size:14px;
+    font-weight:700;
+    margin-bottom:14px;
+}
+ .article .article-r .article-r-img{
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 20px;
+    }
+ .article .article-r .article-r-img img{
+     width:102px;
+     height:100px;
+ }
+a:hover {
+    color: red;
+    text-decoration: underline;
+}
+ .hover{
+     transition:all 0.5s;
+     cursor:pointer;
+ }
+.article .article-r .article-r-content p {
+    height: 28px;
+    line-height: 28px;
+    margin-top: -16px;
+    /*overflow:hidden;*/
+}
+
+
+.link {
+    border-bottom: 1px solid transparent;
+}
+
+.article .article-m .article-m-title {
+    font-size: 18px;
+}
+.article .article-m .article-m-content {
+    font-size: 14px;
+    color: #999;
+    margin-top: 28px;
+    margin-bottom: 28px;
+    height: 72px;
+    line-height: 24px;
+}
+.article-m-btn {
+    padding: 12px 28px;
+    border: 1px solid #dcdcdc;
+    border-radius: 5px;
+    display: inline-block;
+    cursor: pointer;
+    margin-top:30px;
+    
+}

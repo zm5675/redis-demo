@@ -1,0 +1,9 @@
+# Project exclude paths
+/Demo/target/
+/jedis_demo/target/
+/mq-demo/consumer/target/
+/mq-demo/publisher/target/
+/out/
+/rabbitmqDemo/target/
+/redis-demo/target/
+/springdataredis/target/

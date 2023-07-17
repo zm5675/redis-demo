@@ -1,0 +1,24 @@
+﻿@charset "utf-8";
+body { 
+    /*background: url('/Images/Login/LoginBackground.jpg') no-repeat center bottom;*/ 
+       background-color: #f3f8fc; background-attachment: local; background-size: 100% 100%; /*filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/images/background4.jpg', sizingMethod='scale');*/ color: #333; font-size: 14px; font-family: 'Microsoft YaHei','Arial',"黑体", "宋体"; }
+.mn-content { padding-top: 8.5%; border-bottom: none; background: 0 0;}
+.mn-inner { width: 408px; margin: 0 auto;}
+.pg-form { padding: 20px 48px; min-height: 300px; border-radius: 8px; background-color: transparent;}
+.pg-form h3 { color: #090202; font-size: 20px;margin-left:55px; }
+.td-left td .m-text { width: 220px; height: 35px; line-height: 35px; border: 1px solid #ccc; border-radius: 3px; padding-left: 5px; }
+.td-left tr .td-title { width: 75px; height: 60px; font-size: 15px; line-height: 58px; }
+.td-right { padding-top: 10px }
+.m-btn-blue { color: #fff; font-weight: bold; background: #42a4d8; border: 1px solid #298dba; }
+.m-btn-blue:hover { background: #3a9acc; }
+#btn_login { height: 40px; width: 220px; border-radius: 3px; cursor: pointer; font-family: 'Microsoft YaHei','Arial',"黑体", "宋体";color: rgb(87, 129, 151);background-color: #e4f4f4;}
+#btn_add { height: 35px; width: 220px; border-radius: 3px; cursor: pointer; font-family: 'Microsoft YaHei','Arial',"黑体", "宋体";color: rgb(87, 129, 151);background-color: #e4f4f4;}
+#btn_later { height: 35px; width: 220px; border-radius: 3px; cursor: pointer; font-family: 'Microsoft YaHei','Arial',"黑体", "宋体";color: rgb(87, 129, 151);background-color: #e4f4f4;}
+@media (max-width: 767px) {
+
+    .mn-inner { width: 316px; }
+    .mn-content { padding-top: 36.5%; background-size: contain; }
+    .pg-form { padding: 20px 28px; min-height: 280px; }
+}
+.pg-form { position: relative;opacity:1 }
+input:focus { box-shadow: #6CADDA 0 0 20px; color: #458DBF; font-size: 14px; border: 0; }

@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Demo:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f56c5992-9415-45bc-92aa-86221cb19e36" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="MyBatisSQL映射文件" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+        <option name="localRepository" value="E:\Maven\repository" />
+        <option name="mavenHome" value="E:\Maven\apache-maven-3.6.3-bin\apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="E:\Maven\apache-maven-3.6.3-bin\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="enabledProfiles">
+      <list>
+        <option value="jdk-1.8" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+    <option name="vmOptions" value="-Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true" />
+  </component>
+  <component name="ProjectId" id="2OHNEHHYI5N4KXr8Wyj9Iy2kNvf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.24124204" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="cn.itcast.mq" />
+      <recent name="com.sa" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\SpringBootAndMybatisPlus\hm-dianping\src\main\resources" />
+      <recent name="E:\新建文件夹 (2)\Redis-笔记资料\02-实战篇\资料\hm-dianping\Demo\src\main\webapp" />
+      <recent name="E:\新建文件夹 (2)\Redis-笔记资料\02-实战篇\资料\hm-dianping\Demo\src\main\webapp\WEB-INF" />
+      <recent name="E:\新建文件夹 (2)\Redis-笔记资料\02-实战篇\资料\hm-dianping\Demo\src\main\java" />
+      <recent name="E:\SpringBootAndMybatisPlus\mybatis\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.hmdp.utils" />
+      <recent name="com.sa.pojo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\SpringBootAndMybatisPlus\hm-dianping\src\main\resources\db" />
+      <recent name="E:\SpringBootAndMybatisPlus\mybatis\src\main\resources\statis" />
+      <recent name="E:\SpringBootAndMybatisPlus\mybatisplus\src\main\resources\mapper" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+      <command value="mvn " />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.HmDianPingApplicationTests.testIsBlackss">
+    <configuration name="AmqpTest.testSendObjectQueue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="publisher" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.mq.helloworld.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.itcast.mq.helloworld" />
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.mq.helloworld.AmqpTest" />
+      <option name="METHOD_NAME" value="testSendObjectQueue" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AmqpTest.testSendTopicExchange" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="publisher" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.mq.helloworld.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.itcast.mq.helloworld" />
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.mq.helloworld.AmqpTest" />
+      <option name="METHOD_NAME" value="testSendTopicExchange" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HmDianPingApplicationTests.testIsBlack" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hm-dianping" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hmdp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hmdp" />
+      <option name="MAIN_CLASS_NAME" value="com.hmdp.HmDianPingApplicationTests" />
+      <option name="METHOD_NAME" value="testIsBlack" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HmDianPingApplicationTests.testIsBlackss" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hm-dianping" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hmdp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hmdp" />
+      <option name="MAIN_CLASS_NAME" value="com.hmdp.HmDianPingApplicationTests" />
+      <option name="METHOD_NAME" value="testIsBlackss" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="consumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.mq.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.itcast.mq.ConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HmDianPingApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hm-dianping" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hmdp.HmDianPingApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HmDianPingApplication2" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hm-dianping" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hmdp.HmDianPingApplication" />
+      <option name="VM_PARAMETERS" value="-Dserver.port=8082" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mybatis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sa.MybatisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="order-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.itcast.order.OrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="redis-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.itcast.redisdemo.RedisDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="user-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.itcast.user.UserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="appRun" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springdataredis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sa.appRun" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.AmqpTest.testSendTopicExchange" />
+      <item itemvalue="JUnit.AmqpTest.testSendObjectQueue" />
+      <item itemvalue="JUnit.HmDianPingApplicationTests.testIsBlack" />
+      <item itemvalue="JUnit.HmDianPingApplicationTests.testIsBlackss" />
+      <item itemvalue="Spring Boot.OrderApplication" />
+      <item itemvalue="Spring Boot.UserApplication" />
+      <item itemvalue="Spring Boot.MybatisApplication" />
+      <item itemvalue="Spring Boot.appRun" />
+      <item itemvalue="Spring Boot.HmDianPingApplication" />
+      <item itemvalue="Spring Boot.HmDianPingApplication2" />
+      <item itemvalue="Spring Boot.RedisDemoApplication" />
+      <item itemvalue="Spring Boot.ConsumerApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.HmDianPingApplicationTests.testIsBlackss" />
+        <item itemvalue="JUnit.HmDianPingApplicationTests.testIsBlack" />
+        <item itemvalue="Spring Boot.ConsumerApplication" />
+        <item itemvalue="JUnit.AmqpTest.testSendObjectQueue" />
+        <item itemvalue="JUnit.AmqpTest.testSendTopicExchange" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f56c5992-9415-45bc-92aa-86221cb19e36" name="Default Changelist" comment="" />
+      <created>1681213436729</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681213436729</updated>
+      <workItem from="1681213438127" duration="9117000" />
+      <workItem from="1681259602818" duration="3026000" />
+      <workItem from="1681285912808" duration="3400000" />
+      <workItem from="1681346405239" duration="4588000" />
+      <workItem from="1681365827367" duration="19046000" />
+      <workItem from="1681437878410" duration="3781000" />
+      <workItem from="1681606038190" duration="1185000" />
+      <workItem from="1681630099663" duration="712000" />
+      <workItem from="1681642033547" duration="14864000" />
+      <workItem from="1681779518268" duration="19351000" />
+      <workItem from="1681912230184" duration="4520000" />
+      <workItem from="1681954133524" duration="2840000" />
+      <workItem from="1681957070507" duration="13586000" />
+      <workItem from="1681985649598" duration="258000" />
+      <workItem from="1681985996149" duration="97000" />
+      <workItem from="1681986593114" duration="3245000" />
+      <workItem from="1681990115162" duration="414000" />
+      <workItem from="1681990597019" duration="2768000" />
+      <workItem from="1682037982402" duration="11508000" />
+      <workItem from="1682075832291" duration="7308000" />
+      <workItem from="1682087954573" duration="2554000" />
+      <workItem from="1682264990871" duration="440000" />
+      <workItem from="1683627726541" duration="614000" />
+      <workItem from="1683677650785" duration="4697000" />
+      <workItem from="1683705019469" duration="950000" />
+      <workItem from="1683706015686" duration="3387000" />
+      <workItem from="1683718717022" duration="636000" />
+      <workItem from="1683789236872" duration="593000" />
+      <workItem from="1683851256357" duration="3196000" />
+      <workItem from="1683854507174" duration="2732000" />
+      <workItem from="1683857281917" duration="3097000" />
+      <workItem from="1683861108525" duration="1213000" />
+      <workItem from="1683865863955" duration="1650000" />
+      <workItem from="1683867571897" duration="1256000" />
+      <workItem from="1683878878872" duration="1301000" />
+      <workItem from="1683941652283" duration="3371000" />
+      <workItem from="1683945301786" duration="5088000" />
+      <workItem from="1683983364117" duration="2154000" />
+      <workItem from="1684028252945" duration="13000" />
+      <workItem from="1684032408642" duration="26000" />
+      <workItem from="1684065325747" duration="618000" />
+      <workItem from="1684887417010" duration="29887000" />
+      <workItem from="1684937008819" duration="36000" />
+      <workItem from="1685346270213" duration="1961000" />
+      <workItem from="1685348369496" duration="3828000" />
+      <workItem from="1685362474314" duration="138000" />
+      <workItem from="1685362642037" duration="136000" />
+      <workItem from="1685363406439" duration="158000" />
+      <workItem from="1685363580230" duration="3000000" />
+      <workItem from="1685407102726" duration="25809000" />
+      <workItem from="1685500238771" duration="9103000" />
+      <workItem from="1685519781061" duration="225000" />
+      <workItem from="1685520052520" duration="13941000" />
+      <workItem from="1685580765573" duration="4398000" />
+      <workItem from="1685668325321" duration="1258000" />
+      <workItem from="1685875354704" duration="2411000" />
+      <workItem from="1685934324607" duration="536000" />
+      <workItem from="1686055372399" duration="34000" />
+      <workItem from="1686292462228" duration="8725000" />
+      <workItem from="1686481045363" duration="22000" />
+      <workItem from="1687268335770" duration="831000" />
+      <workItem from="1687307649757" duration="13000" />
+      <workItem from="1687674202860" duration="3132000" />
+      <workItem from="1687739897802" duration="17000" />
+      <workItem from="1687958705306" duration="754000" />
+      <workItem from="1688001680816" duration="17000" />
+      <workItem from="1689072113910" duration="1294000" />
+      <workItem from="1689167011236" duration="1192000" />
+      <workItem from="1689239128253" duration="20000" />
+      <workItem from="1689250387180" duration="3252000" />
+      <workItem from="1689296992130" duration="7723000" />
+      <workItem from="1689388643730" duration="2374000" />
+      <workItem from="1689554074346" duration="1589000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="492" y="231" key="#Notifications" timestamp="1685362514903">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="492" y="231" key="#Notifications/0.0.1536.816@0.0.1536.816" timestamp="1685362514903" />
+    <state x="249" y="0" key="#Project_Structure" timestamp="1683858443497">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.816@0.0.1536.816" timestamp="1683858443497" />
+    <state x="599" y="263" key="#com.intellij.debugger.actions.ViewTextAction" timestamp="1681957839363">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="599" y="263" key="#com.intellij.debugger.actions.ViewTextAction/0.0.1536.816@0.0.1536.816" timestamp="1681957839363" />
+    <state x="151" y="65" width="1176" height="727" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1683852283821">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="151" y="65" width="1176" height="727" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.816@0.0.1536.816" timestamp="1683852283821" />
+    <state x="574" y="114" key="#com.intellij.ide.util.MemberChooser" timestamp="1685536957369">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="574" y="114" key="#com.intellij.ide.util.MemberChooser/0.0.1536.816@0.0.1536.816" timestamp="1685536957369" />
+    <state x="370" y="331" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1686294670853">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="370" y="331" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.816@0.0.1536.816" timestamp="1686294670853" />
+    <state x="544" y="275" width="448" height="272" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1685348264419">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="544" y="275" width="448" height="272" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.816@0.0.1536.816" timestamp="1685348264419" />
+    <state x="548" y="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1686294675205">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="548" y="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.816@0.0.1536.816" timestamp="1686294675205" />
+    <state x="524" y="110" key="#xdebugger.evaluate" timestamp="1681957805810">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="524" y="110" key="#xdebugger.evaluate/0.0.1536.816@0.0.1536.816" timestamp="1681957805810" />
+    <state x="93" y="93" width="1350" height="630" key="DiffContextDialog" timestamp="1681347943731">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="93" y="93" width="1350" height="630" key="DiffContextDialog/0.0.1536.816@0.0.1536.816" timestamp="1681347943731" />
+    <state x="815" y="140" key="FileChooserDialogImpl" timestamp="1689559239921">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="815" y="140" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1689559239921" />
+    <state x="611" y="308" width="313" height="273" key="Gitee.ShareDialog" timestamp="1689559383846">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="611" y="308" width="313" height="273" key="Gitee.ShareDialog/0.0.1536.816@0.0.1536.816" timestamp="1689559383846" />
+    <state x="802" y="264" key="Github.ShareDialog" timestamp="1689559432449">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="802" y="264" key="Github.ShareDialog/0.0.1536.816@0.0.1536.816" timestamp="1689559432449" />
+    <state x="389" y="106" key="Github.UntrackedFilesDialog" timestamp="1689559449472">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="389" y="106" key="Github.UntrackedFilesDialog/0.0.1536.816@0.0.1536.816" timestamp="1689559449472" />
+    <state width="1493" height="199" key="GridCell.Tab.0.bottom" timestamp="1689257969328">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="199" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1689257969328" />
+    <state width="1493" height="199" key="GridCell.Tab.0.center" timestamp="1689257969327">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="199" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1689257969327" />
+    <state width="1493" height="199" key="GridCell.Tab.0.left" timestamp="1689257969327">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="199" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1689257969327" />
+    <state width="1493" height="199" key="GridCell.Tab.0.right" timestamp="1689257969328">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="199" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1689257969328" />
+    <state width="1173" height="363" key="GridCell.Tab.1.bottom" timestamp="1686321630818">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1173" height="363" key="GridCell.Tab.1.bottom/0.0.1536.816@0.0.1536.816" timestamp="1686321630818" />
+    <state width="1173" height="363" key="GridCell.Tab.1.center" timestamp="1686321630818">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1173" height="363" key="GridCell.Tab.1.center/0.0.1536.816@0.0.1536.816" timestamp="1686321630818" />
+    <state width="1173" height="363" key="GridCell.Tab.1.left" timestamp="1686321630818">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1173" height="363" key="GridCell.Tab.1.left/0.0.1536.816@0.0.1536.816" timestamp="1686321630818" />
+    <state width="1173" height="363" key="GridCell.Tab.1.right" timestamp="1686321630818">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1173" height="363" key="GridCell.Tab.1.right/0.0.1536.816@0.0.1536.816" timestamp="1686321630818" />
+    <state width="1438" height="489" key="GridCell.Tab.2.bottom" timestamp="1684888588095">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1438" height="489" key="GridCell.Tab.2.bottom/0.0.1536.816@0.0.1536.816" timestamp="1684888588095" />
+    <state width="1438" height="489" key="GridCell.Tab.2.center" timestamp="1684888588095">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1438" height="489" key="GridCell.Tab.2.center/0.0.1536.816@0.0.1536.816" timestamp="1684888588095" />
+    <state width="1438" height="489" key="GridCell.Tab.2.left" timestamp="1684888588095">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1438" height="489" key="GridCell.Tab.2.left/0.0.1536.816@0.0.1536.816" timestamp="1684888588095" />
+    <state width="1438" height="489" key="GridCell.Tab.2.right" timestamp="1684888588095">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1438" height="489" key="GridCell.Tab.2.right/0.0.1536.816@0.0.1536.816" timestamp="1684888588095" />
+    <state width="1204" height="155" key="GridCell.Tab.3.bottom" timestamp="1681989541602">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1204" height="155" key="GridCell.Tab.3.bottom/0.0.1536.816@0.0.1536.816" timestamp="1681989541602" />
+    <state width="1204" height="155" key="GridCell.Tab.3.center" timestamp="1681989541602">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1204" height="155" key="GridCell.Tab.3.center/0.0.1536.816@0.0.1536.816" timestamp="1681989541602" />
+    <state width="1204" height="155" key="GridCell.Tab.3.left" timestamp="1681989541602">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1204" height="155" key="GridCell.Tab.3.left/0.0.1536.816@0.0.1536.816" timestamp="1681989541602" />
+    <state width="1204" height="155" key="GridCell.Tab.3.right" timestamp="1681989541602">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1204" height="155" key="GridCell.Tab.3.right/0.0.1536.816@0.0.1536.816" timestamp="1681989541602" />
+    <state x="287" y="127" key="Maven.ArtifactSearchDialog" timestamp="1685364751129">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="287" y="127" key="Maven.ArtifactSearchDialog/0.0.1536.816@0.0.1536.816" timestamp="1685364751129" />
+    <state x="395" y="133" key="NewModule_or_Project.wizard" timestamp="1686293183618">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="395" y="133" key="NewModule_or_Project.wizard/0.0.1536.816@0.0.1536.816" timestamp="1686293183618" />
+    <state x="349" y="177" width="837" height="412" key="Registry" timestamp="1681442113552">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="349" y="177" width="837" height="412" key="Registry/0.0.1536.816@0.0.1536.816" timestamp="1681442113552" />
+    <state x="3" y="38" width="1493" height="710" key="SettingsEditor" timestamp="1689559231133">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="3" y="38" width="1493" height="710" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1689559231133" />
+    <state x="430" y="105" key="SpringBootCustomization" timestamp="1681366548989">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="430" y="105" key="SpringBootCustomization/0.0.1536.816@0.0.1536.816" timestamp="1681366548989" />
+    <state x="311" y="137" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1682051503799">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="311" y="137" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.816@0.0.1536.816" timestamp="1682051503799" />
+    <state width="503" height="352" key="documentation.popup.size" timestamp="1689297544245">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="503" height="352" key="documentation.popup.size/0.0.1536.816@0.0.1536.816" timestamp="1689297544245" />
+    <state x="499" y="168" key="extract.method.dialog" timestamp="1681720700732">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="499" y="168" key="extract.method.dialog/0.0.1536.816@0.0.1536.816" timestamp="1681720700732" />
+    <state x="95" y="94" width="1212" height="674" key="new project wizard" timestamp="1684893779328">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="95" y="94" width="1212" height="674" key="new project wizard/0.0.1536.816@0.0.1536.816" timestamp="1684893779328" />
+    <state x="425" y="185" width="672" height="677" key="run.anything.popup" timestamp="1686300778734">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="425" y="185" width="672" height="677" key="run.anything.popup/0.0.1536.816@0.0.1536.816" timestamp="1686300778734" />
+    <state x="431" y="137" width="672" height="678" key="search.everywhere.popup" timestamp="1689297354372">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="431" y="137" width="672" height="678" key="search.everywhere.popup/0.0.1536.816@0.0.1536.816" timestamp="1689297354372" />
+    <state x="407" y="112" key="spring file set editor" timestamp="1681366546393">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="407" y="112" key="spring file set editor/0.0.1536.816@0.0.1536.816" timestamp="1681366546393" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/Demo/src/main/java/web/servlet/AddShopCartServlet.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/Demo/src/main/java/web/servlet/AddShopCartServlet.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/Demo/src/main/java/web/servlet/GoodListServlet.java</url>
+          <line>89</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="java.lang.String" memberName="value" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>

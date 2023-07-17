@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="c3p0-0.9.1.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../新建文件夹 (2)/Redis-笔记资料/02-实战篇/资料/hm-dianping/Demo/src/main/webapp/WEB-INF/lib/c3p0-0.9.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../新建文件夹 (2)/Redis-笔记资料/02-实战篇/资料/hm-dianping/Demo/src/main/webapp/WEB-INF/lib/commons-beanutils-1.8.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../新建文件夹 (2)/Redis-笔记资料/02-实战篇/资料/hm-dianping/Demo/src/main/webapp/WEB-INF/lib/commons-fileupload-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../新建文件夹 (2)/Redis-笔记资料/02-实战篇/资料/hm-dianping/Demo/src/main/webapp/WEB-INF/lib/commons-io-2.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../新建文件夹 (2)/Redis-笔记资料/02-实战篇/资料/hm-dianping/Demo/src/main/webapp/WEB-INF/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../新建文件夹 (2)/Redis-笔记资料/02-实战篇/资料/hm-dianping/Demo/src/main/webapp/WEB-INF/lib/druid-1.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../新建文件夹 (2)/Redis-笔记资料/02-实战篇/资料/hm-dianping/Demo/src/main/webapp/WEB-INF/lib/javax.servlet.jsp.jstl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../新建文件夹 (2)/Redis-笔记资料/02-实战篇/资料/hm-dianping/Demo/src/main/webapp/WEB-INF/lib/jstl-impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../新建文件夹 (2)/Redis-笔记资料/02-实战篇/资料/hm-dianping/Demo/src/main/webapp/WEB-INF/lib/mssql-jdbc-8.4.1.jre14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../新建文件夹 (2)/Redis-笔记资料/02-实战篇/资料/hm-dianping/Demo/src/main/webapp/WEB-INF/lib/mysql-connector-java-5.1.18-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../新建文件夹 (2)/Redis-笔记资料/02-实战篇/资料/hm-dianping/Demo/src/main/webapp/WEB-INF/lib/spring-beans-4.2.4.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../新建文件夹 (2)/Redis-笔记资料/02-实战篇/资料/hm-dianping/Demo/src/main/webapp/WEB-INF/lib/spring-core-4.2.4.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../新建文件夹 (2)/Redis-笔记资料/02-实战篇/资料/hm-dianping/Demo/src/main/webapp/WEB-INF/lib/spring-jdbc-4.2.4.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../新建文件夹 (2)/Redis-笔记资料/02-实战篇/资料/hm-dianping/Demo/src/main/webapp/WEB-INF/lib/spring-tx-4.2.4.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

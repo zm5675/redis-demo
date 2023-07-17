@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.sa.mapper.UserMapper">
+<select id="selectByEmail" resultType="com.sa.mybatisplus.pojo.User">
+    select * from user where email=#{email}
+</select>
+    <delete id="delByIdAndEmailAndEmail">
+delete from user
+where
+id = #{id,jdbcType=NUMERIC}
+ AND email = #{email,jdbcType=VARCHAR}
+ AND email = #{oldEmail,jdbcType=VARCHAR}
+</delete>
+</mapper>

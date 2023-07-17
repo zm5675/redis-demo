@@ -1,0 +1,28 @@
+﻿body {
+}
+
+.banner {
+    width: 100%;
+    height: 435px;
+    margin-top: 16px;
+}
+
+ul {
+    list-style: none;
+}
+
+.banner li {
+    width: 100%;
+    height: 435px;
+    position: absolute;
+    display: none;
+}
+
+    .banner li img {
+        width: 100%;
+        height: 435px;
+    }
+
+    .banner li:first-child {
+        display: block;
+    }

@@ -1,0 +1,121 @@
+﻿ 
+/* CSS Document */
+body {
+	/*background:#F7F7F7;*/
+}
+body, input, button, select, textarea {
+	font:12px/1.5 Microsoft YaHei, Tahoma, Helvetica, 'SimSun', sans-serif;
+	color:#444;
+}
+.body-main{margin-bottom:10px;}
+.navigation{border-bottom:1px solid #ddd;padding-bottom:8px;}
+.leftbar{float:left;width:160px;}
+.main{float:left;margin-left:10px;width:1050px;
+}
+.t-main{float:left;}
+.left-menu{border:1px solid #ddd;font-family:simsun;border-radius:5px; background:#F7F7F7 repeat-x;}
+.left-menu h2{ height:22px;padding:6px 15px; }
+.left-menu h2 em{background:Url(/images/member/icon_member.gif) no-repeat;padding-left:25px;line-height:22px;font-weight:bold;font-size:14px;display:block;color:#666;}
+.left-menu dt{background:#f4f4f4;height:28px;padding:0 10px;border-top:1px solid #ddd;border-bottom:1px solid #ddd;}
+.left-menu dt:hover,.left-menu dt.menu-hover{background:#fff1e4;}
+.left-menu dt h3{height:28px;line-height:28px;font-size:14px;}
+.left-menu dd{padding:10px 20px; background:#FFF; margin-bottom:2px;}
+.left-menu li{line-height:24px;}
+
+.box{border:1px solid #ffbb73;background:#fff8f2;padding:6px 10px;line-height:20px;border-radius:5px;}
+.user{padding:10px;color:#444;font-family:simsun;line-height:24px;background:none;border:1px solid #ddd;border-radius:5px;}
+.user .avatar{float:left;margin-right:20px;padding:10px;}
+.user .avatar .pic{border:1px solid #ddd;width:120px;height:100px;text-align:center;background:#fff;display:table-cell;vertical-align:middle;}
+.user .avatar .pic img{ vertical-align:middle;}
+.user p{padding:4px 0;}
+.user td{line-height:24px;}
+.user em{font-weight:bold;color:#f00;}
+.user .name{font-size:14px;font-weight:bold;}
+.user .user-level span{background:#fff6ed;border:1px solid #ffe8d3;padding:0 5px;display:inline-block;line-height:20px;color:#666;}
+
+.user a:link,.user a:visited{color:#4666cb;}
+.user td a{font-family:Tahoma, Geneva, sans-serif;}
+.user td a:link,.user td a:visited{color:#ff8400;}
+
+.tabview{position:relative;}
+.tabview .tab-top{position:absolute;top:3px;right:5px;}
+.tabview .tab-top .text{width:120px;height:auto;margin:0;}
+.tabview .tab-top input,.tabview .tab-top select{vertical-align:middle;}
+.tab-nav{border-bottom:1px solid #dedede;}
+.tab-nav li{float:left;position:relative;margin-bottom:-1px;}
+.tab-nav li a{float:left;width:auto!important;width:90px;min-width:90px;padding:0 10px;padding-top:1px;height:30px;line-height:30px;font-weight:bold;text-align:center;background:#ffffff;font-size:14px;white-space:nowrap;border:1px solid #dedede;}
+.tab-nav li.active{border-top:2px solid #448ef3;}
+.tab-nav li.active a{background:#f4f4f4;border-bottom:none;border-top:none;height:31px;padding-top:0;}
+.tab-nav li a:link,.tab-nav li a:visited{color:#333;text-decoration:none;}
+
+/* 加个外框 */
+.tab-module .tab-nav li.active a{background:#fff;}
+.tab-module .tab-content{border:1px solid #dedede;border-top:none;padding:10px;}
+.tb{width:100%;border-right:1px solid #dedede;}
+.tb td{padding:10px;line-height:20px;font-size:12px;}
+.tb th{background:#f4f4f4;height:30px;line-height:30px;font-weight:bold;text-align:left;padding:0 10px;font-size:12px;border-bottom:1px solid #dedede;}
+.tb th.first{border-left:1px solid #dedede;}
+.tb td{border-left:1px solid #dedede;border-bottom:1px solid #dedede;}
+.tb .alt td{background:#f5f5f5;}
+.tb .photo img{vertical-align:middle;}
+.tb .photo td{padding:0;padding-right:8px;text-align:center;}
+.tb .photo .pic{border:1px solid #ddd;width:50px;height:50px;margin-bottom:5px;}
+.tb .photo a{background:#fff;display:inline-block;}
+.tb a.name{ display:block; width:200px; overflow:hidden; height:22px;}
+
+.tb a:link,.tb a:visited{color:#4666cb;}
+.tb .price,.tb .point{color:#f60;font-weight:bold;}
+.tb .no{color:#ce0000;font-weight:bold;}
+.tb .comment-star{display:inline-block;}
+.tb .blue:link,.tb .blue:visited{color:#36c;}
+.tb .nothing{padding:10px;text-align:center;}
+
+.tb-4{width:100%;margin:10px;}
+.tb-4 td{padding:2px;line-height:20px;font-size:12px;}
+.tb-4 th{background:#f4f4f4;height:30px;line-height:30px;font-weight:bold;text-align:left;padding:0 10px;font-size:12px;border-bottom:1px solid #dedede;}
+.tb-4 th.first{border-left:1px solid #dedede; }
+.tb-4 td{}
+
+.rt a.s1{float:left; vertical-align:middle; display: block;width:70px;height: 12px;background: url('/Images/Icons/icon_star_1.gif') repeat-x;}
+.rt span.s2{display: block; background: url('/Images/Icons/icon_star_2.gif') repeat-x;height: 12px;z-index: 1;}
+
+ 
+
+.b-1{ cursor:pointer; display:inline-block;border:1px solid #ffa24d;height:20px;line-height:20px;background:#FF5500 bottom repeat-x;padding:0 8px;text-align:center;min-width:24px;width:auto!important;width:24px;font-family:simsun;color:#fff!important;vertical-align:middle;overflow:visible;}
+
+.b-3{ cursor:pointer; display:inline-block;border:1px solid #ffa24d;height:20px;line-height:20px;background:#FF5500 url(http://static.bbs.miui.com/static/image/miui/base/nv.png) bottom repeat-x;padding:0 8px;text-align:center;min-width:24px;width:auto!important;width:24px;font-family:simsun;color:#fff!important;vertical-align:middle;overflow:visible;}
+
+.b-2{ cursor:pointer; display:inline-block;border:1px solid #CCC;height:20px;line-height:20px;background:#ddd bottom repeat-x;padding:0 8px;text-align:center;min-width:24px;width:auto!important;width:24px;font-family:simsun;color:#000!important;vertical-align:middle;overflow:visible;}
+
+.order h2{ font-size:12px; font-weight:500;}
+
+.order .b{width:100%;border:1px solid #dedede; border-bottom:none; }
+.order .b th{background:#f4f4f4;height:30px;line-height:30px;font-weight:bold;text-align:left;padding:0 10px;font-size:12px;}
+.order .b td{line-height:20px;font-size:12px;padding:5px 0 5px 0;vertical-align:middle;}
+
+.order .b-title {border:1px solid #dedede; border-bottom:none; background:#E8F1FF;}
+
+.order .tb{border:1px solid #dedede;  }
+.order .b-t {border:1px solid #dedede; border-top:none; border-bottom:none; }
+.order .b-t table{float:right;}
+.order .b-t table th,.b-t table td{padding:5px 10px 5px 0;text-align:right;}
+.order .b-t table em{font-size:14px;font-family:/*"Microsoft YaHei",*/ Verdana,SimSun,Arial;font-weight:bold;}
+.order .b-t .usepoint em,.order .b-t .couponprice em{color:#FF0000;}
+.order .b-t .tp em{color:#FF5500; line-height:14px; font-size:16px;}
+
+.order .b-s{border:1px solid #dedede; border-top:none; }
+.order .b-s{width:100%;}
+.order .b-s th{background:#f4f4f4;height:30px;line-height:30px;font-weight:bold;text-align:left;padding:0 10px;font-size:12px;}
+.order .b-s td{line-height:20px;font-size:12px;padding:5px 0 5px 0;vertical-align:middle;}
+
+.rate{width:200px;}
+.rate em{float:left;}
+.rate a{display:block;width:70px;height:12px;background:url('/images/icons/icon_star_1.gif') repeat-x;float:left;}
+.rate span{display:block;height:12px;z-index:1;width:14px;float:right;}
+.rate span:hover{cursor:pointer;}
+.rate .bg{background:url('/images/icons/icon_star_2.gif') repeat-x;}
+
+.b-rate{border:1px solid #dedede; border-top:none;}
+.b-title{padding-left:5px;background:url(/images/topbar.gif) repeat-x;height:30px; line-height:30px; font-family:simsun;}
+
+
